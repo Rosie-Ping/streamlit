@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime
 
-st.title('Hello World. This is a Title')
+st.title('Hello World. Hello Git. Hello Branch')
 # Text
 st.text('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum.')
 # Using st.write
